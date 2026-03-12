@@ -1,0 +1,17 @@
+React Frontend (Vercel)
+
+        ↓
+
+FastAPI Backend (Docker)
+
+        ↓
+
+LangGraph AI Agents
+
+        ↓
+
+Groq LLM API
+
+        ↓
+
+PostgreSQL Database

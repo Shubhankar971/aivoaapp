@@ -1,0 +1,39 @@
+---------------------------------------------------------
+| AI CRM – HCP Module                                   |
+---------------------------------------------------------
+| HCP: Dr. Anil Sharma | Endocrinologist | Apollo Hosp. |
+---------------------------------------------------------
+
+| Log Interaction                                        |
+---------------------------------------------------------
+|  [Structured Form]   [AI Chat Logging]                 |
+---------------------------------------------------------
+
+LEFT PANEL (Input)              RIGHT PANEL (AI Insights)
+
+----------------------          --------------------------
+| Interaction Form   |          | AI Insights            |
+|--------------------|          |------------------------|
+| Interaction Type ▼ |          | Sentiment: Positive    |
+| Date               |          | Key Topics:            |
+| Product Discussed  |          | - Diabetes Drug        |
+| Notes              |          | - Cost Concern         |
+|                    |          |                        |
+| Follow-up Action   |          | AI Suggestions:        |
+| Next Visit Date    |          | - Send trial data      |
+|                    |          | - Schedule webinar     |
+| [Save Interaction] |          |                        |
+----------------------          --------------------------
+
+OR
+
+--------------------------
+| AI Chat Interaction    |
+--------------------------
+Rep:
+"Met Dr Sharma today at Apollo hospital.
+Discussed our new diabetes drug.
+He seemed interested but worried about cost."
+
+AI extracts → Structured data
+User confirms → Save
